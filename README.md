@@ -55,5 +55,5 @@ This will open the crontab file in a text editor. If this is the first time you'
 
 
 ## — Feedback ❤️—
-Thank you for choosing the PM2 Checker! I hope it meets your encryption needs effectively.<br>
+Thank you for choosing the PM2 Checker! I hope it meets your needs effectively.<br>
 Please leave a comment if you have any comments, suggestions or problems.
